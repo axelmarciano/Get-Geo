@@ -1,0 +1,18 @@
+{
+  "author": "Axel Marciano <axel.marciano@gmail.com>",
+  "name": "get-geo",
+  "description": "A module which allow you to get a city with the country and the zip and allow you to get the GPS coordinates with the country and the zipcode",
+  "version": "0.0.1",
+  "main": "./lib/geo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axelmarciano/Get-Geo.git"
+  },
+  "engines": {
+    "node": ">= 0.4"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    
+  }
+}
